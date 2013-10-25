@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "X": 533700, "Y": 181697, "NAME": "Britannia", "ASSOCIATIO": "Mary Kelly", "LOCATION": "corner of Dorset Street and Commercial St" }, "geometry": { "type": "Point", "coordinates": [ -0.074433369383628, 51.51837833056485 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "X": 533563, "Y": 181708, "NAME": "Horn Of Plenty", "ASSOCIATIO": "Mary Kelly", "LOCATION": "north corner of Crispen Street and Dorset Street,  5 Crispen (Duval) St" }, "geometry": { "type": "Point", "coordinates": [ -0.076402527734758, 51.518509560331331 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "X": 533689, "Y": 181799, "NAME": "Ten Bells", "ASSOCIATIO": "Mary Kelly", "LOCATION": "corner of Commercial Street and Fournier St" }, "geometry": { "type": "Point", "coordinates": [ -0.074553152751698, 51.519297539739206 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "X": 533733, "Y": 181531, "NAME": "Princess Alice", "ASSOCIATIO": "Frances Coles", "LOCATION": "corner of Wentworth Street and Commercial Street" }, "geometry": { "type": "Point", "coordinates": [ -0.074020975019142, 51.516878791527574 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "X": 534064, "Y": 181715, "NAME": "Alma Pub", "ASSOCIATIO": "none", "LOCATION": "Spelman Street" }, "geometry": { "type": "Point", "coordinates": [ -0.069183555652634, 51.518453892366168 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "X": 533443, "Y": 181659, "NAME": "Kings Stores Pub", "ASSOCIATIO": "none", "LOCATION": "corner of Widegate Street and Sandy's Row" }, "geometry": { "type": "Point", "coordinates": [ -0.078149529437049, 51.518097562695701 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "X": 533805, "Y": 181921, "NAME": "Black Swan", "ASSOCIATIO": "none", "LOCATION": "23 Hanbury Street" }, "geometry": { "type": "Point", "coordinates": [ -0.072835997346379, 51.520366432630283 ] } },
+{ "type": "Feature", "properties": { "ID": 8, "X": 534318, "Y": 181264, "NAME": "George IV", "ASSOCIATIO": "none", "LOCATION": "68 Berner (Henriques) Street" }, "geometry": { "type": "Point", "coordinates": [ -0.065696711801464, 51.514340782242392 ] } },
+{ "type": "Feature", "properties": { "ID": 9, "X": 534325, "Y": 181218, "NAME": "Nelson", "ASSOCIATIO": "none", "LOCATION": "46 Berner (Henriques) Street" }, "geometry": { "type": "Point", "coordinates": [ -0.065613407057552, 51.513925749056064 ] } },
+{ "type": "Feature", "properties": { "ID": 10, "X": 533589, "Y": 181710, "NAME": "Blue Coat Boy", "ASSOCIATIO": "none", "LOCATION": "Dorset Street" }, "geometry": { "type": "Point", "coordinates": [ -0.076027269884649, 51.518521390521194 ] } },
+{ "type": "Feature", "properties": { "ID": 11, "X": 533937, "Y": 181498, "NAME": "Angel", "ASSOCIATIO": "none", "LOCATION": "Angel Alley, Whitechapel High Street to Wentworth Street and next to George Yard on its eastern side, G" }, "geometry": { "type": "Point", "coordinates": [ -0.071095228530216, 51.516533956406619 ] } },
+{ "type": "Feature", "properties": { "ID": 12, "X": 535348, "Y": 180770, "NAME": "White Bear", "ASSOCIATIO": "none", "LOCATION": "1 St. George Street, The Highway" }, "geometry": { "type": "Point", "coordinates": [ -0.051051760658353, 51.509655987397352 ] } },
+{ "type": "Feature", "properties": { "ID": 13, "X": 534405, "Y": 181333, "NAME": "Bricklayers Arms", "ASSOCIATIO": "none", "LOCATION": "Settles St, off Commercial Rd, opposite Christian St" }, "geometry": { "type": "Point", "coordinates": [ -0.064417413472509, 51.514940165688913 ] } },
+{ "type": "Feature", "properties": { "ID": 14, "X": 534411, "Y": 181301, "NAME": "Beehive Tavern", "ASSOCIATIO": "none", "LOCATION": "corner of Christian Street" }, "geometry": { "type": "Point", "coordinates": [ -0.064343188506495, 51.514651177731388 ] } },
+{ "type": "Feature", "properties": { "ID": 15, "X": 534937, "Y": 181202, "NAME": "Star", "ASSOCIATIO": "Tabram Stride", "LOCATION": "Star Street was a little over half a mile along Commercial Road and led southwards (parallel to Berner" }, "geometry": { "type": "Point", "coordinates": [ -0.05680533835626, 51.513636264494252 ] } }
+]
+}

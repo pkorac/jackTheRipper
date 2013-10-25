@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "X": 535008, "Y": 180926, "NAME": "Seweryn Antonowicz Klosowski", "OTHER_NAME": "George Chapman", "ADDRESS": "126 Cable Street", "OCCUPATION": "hairdresser", "EDUCATION": "surgeon", "OFFENCES": "poisoned 3 women", "OUTCOME": "hanged" }, "geometry": { "type": "Point", "coordinates": [ -0.055888384086237, 51.511139109082251 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "X": 537304, "Y": 182193, "NAME": "William Henry Bury", "OTHER_NAME": "0", "ADDRESS": "Swaton\/Spanby Road, Bow", "OCCUPATION": "unknown", "EDUCATION": "unknown", "OFFENCES": "murder of his wife", "OUTCOME": "hanged" }, "geometry": { "type": "Point", "coordinates": [ -0.022330253958287, 51.521971706801892 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "X": 534756, "Y": 180591, "NAME": "Francis Thompson", "OTHER_NAME": "0", "ADDRESS": "Docklands south of Whitechap", "OCCUPATION": "vagrant", "EDUCATION": "Poet, doctor, opium addict", "OFFENCES": "none", "OUTCOME": "famouswriter" }, "geometry": { "type": "Point", "coordinates": [ -0.059645447827889, 51.508188804406288 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "X": 528546, "Y": 184856, "NAME": "Mary Pearcey", "OTHER_NAME": "0", "ADDRESS": "Kentish Town, London", "OCCUPATION": "midwife", "EDUCATION": "Kentish Town, London", "OFFENCES": "murdered lover's wife", "OUTCOME": "hanged" }, "geometry": { "type": "Point", "coordinates": [ -0.147520982812105, 51.547962638236505 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "X": 534212, "Y": 181310, "NAME": "Francis Tumblety", "OTHER_NAME": "0", "ADDRESS": "22 Commercial Road", "OCCUPATION": "American 'quack'doctor", "EDUCATION": "doctor", "OFFENCES": "in prison homosexual", "OUTCOME": "fled to USA" }, "geometry": { "type": "Point", "coordinates": [ -0.067205875434478, 51.514779321207989 ] } }
+]
+}
